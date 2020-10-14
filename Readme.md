@@ -33,12 +33,12 @@ git clone "https://github.com/Boltuzamaki/Solve-for-Bharat-Hackathon-IISC-Banglo
 ## Now install all additional libraries by
 
 ```sh
-pip3 install requiremnts.txt
+pip3 install requirements.txt
 ```
 
 ## At last run main.py 
 ```sh
-pip3 install main.py
+python3 main.py
 ```
 
 
