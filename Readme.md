@@ -42,4 +42,4 @@ python3 main.py
 ```
 
 
-### If anyone if facing any problem they can raise an issue cheers!
+### If anyone is facing any problem they can raise an issue cheers!
