@@ -15,28 +15,28 @@ Open terminal. Move to "home/pi/tflite/" as a working directory by
 cd "home/pi/tflite/"
 ```
 
-## Step3 -
+## Step4 -
 Install git using 
 
 ```sh
 pip3 install  python-git
 ```
 
-## Step4- Clone this repo
+## Step5- Clone this repo
 
 ```sh
 git clone "https://github.com/Boltuzamaki/Solve-for-Bharat-Hackathon-IISC-Banglore-2020-.git"
 ```
 
-## Connect Pi cam to you Raspi and in setting activate Pi cam. (Watch tutorial or blog there are plenty on internet)
+## Step6- Connect Pi cam to you Raspi and in setting activate Pi cam. (Watch tutorial or blog there are plenty on internet)
 
-## Now install all additional libraries by
+## Step7- Now install all additional libraries by
 
 ```sh
 pip3 install requirements.txt
 ```
 
-## At last run main.py 
+## Step8- At last run main.py 
 ```sh
 python3 main.py
 ```
