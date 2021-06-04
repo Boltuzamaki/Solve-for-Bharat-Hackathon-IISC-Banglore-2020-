@@ -1,5 +1,8 @@
 # Steps to run it on Raspi
 
+## In short 
+<img source="https://github.com/Boltuzamaki/Solve-for-Bharat-Hackathon-IISC-Banglore-2020-/blob/master/pic/solveforbharat.gif" height="400" width="600 />
+
 ## Step1-
 First follow this link to burn Raspbian with all the Computer Vision tool already installed. Because installing OpenCV and tensorflow is a messy thing to do on Raspberry Pi.
 [Link](https://www.pantechsolutions.net/blog/pre-installed-os-for-raspberry-pi-for-free/)
